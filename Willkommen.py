@@ -24,7 +24,7 @@ st.title("👋 Hey, schön, dass du hier bist!")
 
 st.divider()
 
-st.write("Liebe Frau Kampka, lieber Herr Fernandez, liebes Peopleware-Team,")
+st.write("Sehr geehrte Frau Düx, liebes X-Cell-Team,")
 st.write(
     "Ich hoffe, euch gefällt es und ich kann damit zeigen, wie viel Spaß ich am Lernen habe. "
     "Gleichzeitig möchte ich meine Begeisterung für IT, Software und digitale Prozesse mit euch teilen!"
