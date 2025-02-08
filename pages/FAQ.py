@@ -41,7 +41,7 @@ fragen_antworten = {
     "Wie kamst du dazu, programmieren zu wollen?": "Ich habe nach der Einführung der Kurzbefehle für Mac angefangen, kreative Workflows zu bauen. "
                                                    "Das fand ich so spannend, dass ich mehr darüber lernen wollte – und so bin ich über Recherchen auf die CS50-Kurse gestoßen. "
                                                    "Seitdem hat mich das Programmieren nicht mehr losgelassen!",
-    "Warum X-CEll?": "X-CELL vereint genau die Aspekte, die mich an IT und Softwareentwicklung faszinieren: Innovative E-Learning-Software, moderne Technologien und praxisnahe digitale Lösungen. Besonders "
+    "Warum X-Cell?": "X-CELL vereint genau die Aspekte, die mich an IT und Softwareentwicklung faszinieren: Innovative E-Learning-Software, moderne Technologien und praxisnahe digitale Lösungen. Besonders "
                      "spannend finde ich, dass X-CELL nicht nur Software entwickelt, sondern auch Lerninhalte aufbereitet, die Unternehmen weltweit bei der Wissensvermittlung unterstützen."
                      "Während meiner Zeit bei BIRDIE & Co. war ich aktiv an der Einführung neuer Softwarelösungen beteiligt und habe Mitarbeiterschulungen organisiert. Dabei habe ich erlebt, wie wichtig es "
                      "ist, Schulungsinhalte so aufzubereiten, dass sie leicht verständlich und direkt umsetzbar sind. Diese Erfahrung hat mir gezeigt, welchen Mehrwert gezielte Schulungen für Unternehmen bringen "
