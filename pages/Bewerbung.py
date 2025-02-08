@@ -23,17 +23,18 @@ st.title("📄 Bewerbungsunterlagen")
 st.write("Hier findest du meine Bewerbungsunterlagen als PDF.")
 
 # erste Links
-st.markdown("[📜 Anschreiben](https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_7d99264b012c41b0b5fbc658ffe6bbab.pdf)")
-st.markdown("[📄 Lebenslauf](https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_907a5702a3f54c04975daff299057f30.pdf)")
+st.markdown("[📜 Anschreiben](https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_faa9926d93864cf5a55f55126daa87f0.pdf)")
+st.markdown("[📄 Lebenslauf](https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_ef48180d28274fcaad6ee27d627ec440.pdf)")
 
 # Zeugnisse
 st.subheader("🎓 Zeugnisse")
 
-# Links von Zeu.
+# Links von Zeugnissen und Auszeichnungen in einem Dictionary
 pdf_files = {
-    "Zeugnis Überischt ": "https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_98a270e662cd4e51bbc152c4f3139b7a.pdf"
-   }
+    "Zeugnis Übersicht": "https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_98a270e662cd4e51bbc152c4f3139b7a.pdf",
+    "Auszeichnungen Übersicht": "https://f6c82f18-3090-44ca-b3bd-b4593bb23558.filesusr.com/ugd/48e2f2_f6ea8a34ee054ef7b04b22ebb764c8a0.pdf"
+}
 
-# alles als link darstellen
+# alles als Link darstellen
 for title, pdf_link in pdf_files.items():
     st.markdown(f"[{title}]({pdf_link})")
